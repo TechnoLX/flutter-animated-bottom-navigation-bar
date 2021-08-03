@@ -35,7 +35,7 @@ Credit to:
   c. https://youtu.be/AA_N-Ph8he0 (MaterialApp part 3)
   d. https://youtu.be/Xl9gXkydtYE (MaterialApp part 4)
   e. https://youtu.be/RAhyImWkLEc (Scaffold Class part 1)
-  f. 
+  f. https://youtu.be/dBe8XSd_lrk (Scaffold Class part 2)
 
 #flutter #scaffold #widgets #properties #learning #codingjourney #mobileapplication #software #programming #development #selflearning #learningfromhome #flutter2.0 #bottombar #navigationbar #bottomnavigationbar #animation #animated
 
